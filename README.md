@@ -82,12 +82,6 @@ This project uses a `.gitignore` file to exclude files like `node_modules`, `dis
 
 ---
 
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
----
-
 ## 📣 Acknowledgements
 
 * [React](https://react.dev/)

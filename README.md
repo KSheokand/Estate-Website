@@ -1,12 +1,89 @@
-# React + Vite
+# 🏡 Estate Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive real estate website built with **React**, **Vite**, and **Tailwind CSS**. This project serves as a sleek and performant starting point for building full-stack real estate platforms or showcasing property listings.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* ⚡️ **Fast Development**: Powered by Vite for rapid build and hot module replacement (HMR)
+* 🎨 **Beautiful UI**: Styled with Tailwind CSS for a clean and responsive design
+* ✨ **Smooth Animations**: Integrated with Framer Motion for interactive user experience
+* 📱 **Responsive Design**: Works seamlessly on mobile, tablet, and desktop devices
+* 🛠 **Code Quality**: ESLint configured for consistent and error-free code
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📂 Tech Stack
+
+* **Frontend**: React, Vite, Tailwind CSS
+* **Animations**: Framer Motion
+* **Linting**: ESLint
+* **Build Tool**: Vite
+
+---
+
+## 🖥️ Preview
+
+![Estate Website Screenshot](https://your-screenshot-link.com/preview.png)
+
+---
+
+## 🚧 Getting Started
+
+Follow these steps to set up the project locally:
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/yourusername/estate-website.git
+cd estate-website
+```
+
+### 2️⃣ Install dependencies
+
+```bash
+npm install
+```
+
+### 3️⃣ Run the development server
+
+```bash
+npm run dev
+```
+
+Open your browser at `http://localhost:5173` to see the app running.
+
+### 4️⃣ Build for production
+
+```bash
+npm run build
+```
+
+### 5️⃣ Preview production build
+
+```bash
+npm run preview
+```
+
+---
+
+## 📜 .gitignore
+
+This project uses a `.gitignore` file to exclude files like `node_modules`, `dist`, and log files from version control.
+
+---
+
+## 📃 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 📣 Acknowledgements
+
+* [React](https://react.dev/)
+* [Vite](https://vitejs.dev/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Framer Motion](https://www.framer.com/motion/)
+* [React Toastify](https://fkhadra.github.io/react-toastify/)

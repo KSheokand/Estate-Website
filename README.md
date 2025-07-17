@@ -23,9 +23,17 @@ A modern, responsive real estate website built with **React**, **Vite**, and **T
 
 ---
 
-## 🖥️ Preview
+## 📸 Preview
 
-![Estate Website Screenshot](https://your-screenshot-link.com/preview.png)
+### 🏠 Homepage
+![Homepage](screenshots/homepage.png)
+
+### 🏘 Property Listings
+![Property Listings](screenshots/property-listings.png)
+
+### 📞 Contact Page
+![Contact Page](screenshots/contact-page.png)
+
 
 ---
 
